@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Love you, Miss you",
+  "base_artist": "西野カナ",
+  "createdAt": "2026-02-19T09:55:57.214511Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love you, Miss you",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/01_Love_you,_Miss_you_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love You, Miss You",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/02_Love_You,_Miss_You_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love you, Miss you",
+      "artist": "西野 カナ",
+      "has_synced": true,
+      "path": "select/03_Love_you,_Miss_you_西野_カナ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love You, Miss You, Mean It",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/04_Love_You,_Miss_You,_Mean_It_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love You, Miss You, Mean It",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/05_Love_You,_Miss_You,_Mean_It_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Luke Bryan - Love You, Miss You, Mean It (Official Audio)",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/06_Luke_Bryan_-_Love_You,_Miss_You,_Mean_It_(Official_Audio)_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love You, Miss You, Mean It",
+      "artist": "Luke Bryan, Ben Hayslip",
+      "has_synced": true,
+      "path": "select/07_Love_You,_Miss_You,_Mean_It_Luke_Bryan,_Ben_Hayslip.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love You, Miss You, Mean It [Country] 6B 76",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/08_Love_You,_Miss_You,_Mean_It_[Country]_6B_76_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Love You (Miss Robot)",
+      "artist": "The Buggles",
+      "has_synced": false,
+      "path": "select/09_I_Love_You_(Miss_Robot)_The_Buggles.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Love You (Miss Robot)",
+      "artist": "Buggles",
+      "has_synced": true,
+      "path": "select/10_I_Love_You_(Miss_Robot)_Buggles.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Love You (Miss Robot) = Te Amo (Srta. Robot)",
+      "artist": "Buggles",
+      "has_synced": false,
+      "path": "select/11_I_Love_You_(Miss_Robot)_=_Te_Amo_(Srta._Robot)_Buggles.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love You (Miss Robot)",
+      "artist": "The Buggles",
+      "has_synced": true,
+      "path": "select/12_I_Love_You_(Miss_Robot)_The_Buggles.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Love You (Miss Robot)",
+      "artist": "Buggles",
+      "has_synced": true,
+      "path": "select/13_I_Love_You_(Miss_Robot)_Buggles.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love you, Miss you",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_Love_you,_Miss_you_西野_カナ.txt"
+    }
+  ]
+}
